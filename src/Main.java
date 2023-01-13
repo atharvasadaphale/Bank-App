@@ -20,5 +20,6 @@ public class Main {
         System.out.println("enter password");
         String pass=sc.next();
         System.out.println(user.withdraw(money,pass ));
+        System.out.println("hello");
     }
 }
